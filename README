@@ -1,16 +1,15 @@
-#part1
-#question1
-For lr.py its advisable to use n=0.01 for better results
+#part2
+Its advisable to use n=0.015 for better results
 
 I have already used normalization to solve part1 question1
 i.e Xnew=(X-mean)/std_deviation
 for calculation of weights
 
-#question2
-The mean absolute error calculated is 626822.09745
+One could also do normalization of the results or use y=m*x+b(intercepts)
+but I have used the same code as of part1_question1.
+Please use the same submission for calculation in this part as well.
 
-#question3
-check the p1_q3.pdf file attached for data and graphs
+The last run of my code gave the accompanying file 'output.csv' as its result. Attaching for your consideration
 
 NOTE: you may not achieve the same output.csv file as I have uploaded in my best solution, I did a lot of changes in the file and tried to come up with the least MAS value. 
 Keeping that in mind, the final result would still be of the same order.
