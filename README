@@ -1,0 +1,22 @@
+#part1
+#question1
+For lr.py its advisable to use n=0.01 for better results
+
+I have already used normalization to solve part1 question1
+i.e Xnew=(X-mean)/std_deviation
+for calculation of weights
+
+#question2
+The mean absolute error calculated is 626822.09745
+
+#question3
+check the p1_q3.pdf file attached for data and graphs
+
+NOTE: you may not achieve the same output.csv file as I have uploaded in my best solution, I did a lot of changes in the file and tried to come up with the least MAS value. 
+Keeping that in mind, the final result would still be of the same order.
+
+I would be happy to answer any problems if you may encounter any with my code.
+Contact me at kunalagarwal09@gmail.com
+
+Thanks
+
